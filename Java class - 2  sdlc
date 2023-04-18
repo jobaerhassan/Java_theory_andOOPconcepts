@@ -1,0 +1,10 @@
+#####JAR FILE##############
+
+jar == java archive
+jar file is all about zipping the class files(byte codes) .
+jar file is a library itself.cz java is a machine independent language.so if we make a jar app then it will run on any device which supports java.
+jar file e akta manifest lagbe karon kon class ta main eta to r java janena..eta manifest er moddhe likhe dile java khuje nibe. name == manifest.mf
+command == 
+
+
+#######################################
