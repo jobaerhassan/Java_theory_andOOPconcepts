@@ -8,3 +8,19 @@ command ==
 
 
 #######################################
+
+
+        #########C diye java er native code##########3
+        
+        
+        javar sathe C er communication korte hole native methode nite hobe.
+        firstly class gula create kore nite hobe(compile kore).
+        javah(java header) er maddhome header file(obviously java header file)  create korte hbe and erpor same nam e akta C file create korte hobe.
+        secondly shared_object(linux) / dll(windows) e create korte hobe.
+        then GNI er folder er moddhe implement korte java file theke shei class k define korlei java te C program ti run korbe.
+        Mainly c/c++ code gulai shared_object(SO)/DLL file hoye oikhan theke load hocche..akbar SO/dll file create howar por setai run hobe.
+        
+        c/c++ gula run hobe na.
+        
+        
+#################################################3
